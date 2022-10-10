@@ -20,4 +20,11 @@ To run the pipeline, please run the files in order:
 9. `pop visualization.ipynb`: visualize population corresponding to postcode.
 10. `price visualization.ipynb`: visualize price corresponding to postcode.
 11. `MLP visualization.ipynb`: visualize average predicted price and growth rate corresponding to postcode.
-12. `Sprint6.md`: this is the final checkpoint.
+12. `Summary.ipynb`: summary the overall approach taken and the limitations, assumptions made along the way. 
+13. `Sprint6.md`: this is the final checkpoint.
+
+**External data**
+Population data: https://www.abs.gov.au/statistics/people/population/regional-population/latest-release
+School data: https://discover.data.vic.gov.au/dataset/school-locations-2022
+Data used to merge population data and postcode: https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.006July%202011?OpenDocument
+Postcode shapefile used to plot maps(go to Downloads for GDA94 digital boundary files and select Postal Areas - 2021 - Shapefile, this shapefile used to plot maps): https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
